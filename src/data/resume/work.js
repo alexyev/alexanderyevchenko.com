@@ -77,9 +77,9 @@ const work = [
     url: 'https://medium.com/@alexanderyevchenko',
     startDate: '2021-09-01',
     highlights: [
-      'Write articles about emerging technology, philosophy, and personal growth, sharing knowledge and experiences with others',
-      'Reached an audience of 30,000+ people across all publications',
-      'Work featured in the National Observer and Forbes',
+      'Wrote articles about emerging technology, philosophy, and personal growth, sharing knowledge and experiences with others',
+      'Reached an audience of 30,000+ people across all publications on Medium and Substack',
+      'Work featured in the National Observer and Spanish Forbes',
     ],
   },
 ];

@@ -6,14 +6,20 @@ import Main from '../layouts/Main';
 import Education from '../components/Resume/Education';
 import Experience from '../components/Resume/Experience';
 import References from '../components/Resume/References';
+import Skills from '../components/Resume/SkillsPage';
+import Speaking from '../components/Resume/Speaking';
 
 import degrees from '../data/resume/degrees';
 import work from '../data/resume/work';
+import skills from '../data/resume/skills';
+import speaking from '../data/resume/speaking';
 
 // NOTE: sections are displayed in order defined.
 const sections = {
   Education: () => <Education data={degrees} />,
   Experience: () => <Experience data={work} />,
+  Speaking: () => <Speaking data={speaking} />,
+  Skills: () => <Skills skills={{ skills }} />,
   References: () => <References />,
 };
 

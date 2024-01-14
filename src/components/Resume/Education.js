@@ -9,12 +9,17 @@ const Education = ({ data }) => (
     <div className="title">
       <h3>Education</h3>
     </div>
-    {data.map((degree) => (
-      <Degree
-        data={degree}
-        key={degree.school}
-      />
-    ))}
+    <div style={{ marginBottom: '-30px' }}>
+      {data.map((degree) => (
+        <Degree
+          data={degree}
+          key={degree.school}
+        />
+      ))}
+    </div>
+    <article className="degree-container" style={{ marginBottom: '30px' }}>
+      <h4 className="daterange">GPA: 4.0, SAT: 1590</h4>
+    </article>
   </div>
 );
 

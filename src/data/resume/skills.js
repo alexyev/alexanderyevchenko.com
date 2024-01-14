@@ -1,12 +1,28 @@
 const skills = [
-
+  {
+    title: 'Python',
+  },
+  {
+    title: 'Javascript',
+  },
+  {
+    title: 'HTML, CSS',
+  },
+  {
+    title: 'React',
+  },
+  {
+    title: 'LaTeX',
+  },
+  {
+    title: 'PyTorch',
+  },
+  {
+    title: 'Flask',
+  },
+  {
+    title: 'Google Suite',
+  },
 ];
 
-// this is a list of colors that I like. The length should be === to the
-// number of categories. Re-arrange this list until you find a pattern you like.
-
-const categories = [
-
-];
-
-export { categories, skills };
+export default skills;
