@@ -8,7 +8,7 @@ I'm a 17 year old from Toronto making the most out of my short time here on Eart
 - Programming and App Development
 - Venture Capital and Angel Investment
 - Startups and Early-Stage Companies
-- Philosohy (especially Stoicism and the work of Nietzsche)
+- Philosophy (especially Stoicism and the work of Nietzsche)
 - Quantum Computing and Quantum Machine Learning
 - Insightful Conversation and Building Communities
 - Personal Development and Life-Optimization
@@ -20,24 +20,21 @@ I'm a 17 year old from Toronto making the most out of my short time here on Eart
 - [Impact Theory](https://open.spotify.com/show/1nARKz2vTIOb7gC9dusE4b?si=dc1e25c900604039)
 - [Lex Fridman](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL?si=b1e99351bcf14700)
 - [All-In](https://open.spotify.com/show/2IqXAVFR4e0Bmyjsdc8QzF?si=bcab6d6e57464f85)
-- [The Joe Rogan Experience](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk?si=b09c5e401ffd4906)
 
 # What I read
 
-- [Mark Manson](https://markmanson.net/)
 - [Paul Graham](http://www.paulgraham.com/index.html)
 - [Sam Altman](https://blog.samaltman.com/)
 - [Naval Ravikant](https://nav.al/)
 - [Stoicism](https://dailystoic.com/what-is-stoicism-a-definition-3-stoic-exercises-to-get-you-started/)
-- [+ various other threads on Twitter etc.](https://twitter.com/ayevc)
+- [various other threads on Twitter](https://twitter.com/ayevch)
 
 # Fun Facts
 
 - I love to travel and have been to 30+ countries in my short existence
-- I'm an INTJ personality type
-- I dream of doing a pan-European road-trip in a Porsche 911
-- I learn faster than most
-- I believe school has a lot of potential for reform
+- I'm an [INTJ](https://www.16personalities.com/intj-personality) personality type
+- I'm extremely curious and love to deep-dive into emerging technologies impacting the world
+- In my free time, I greatly enjoy reading, from the biographies of founders to the classics
 
 # Reach Out
 
