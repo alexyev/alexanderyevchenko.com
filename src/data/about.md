@@ -38,4 +38,4 @@ I'm a 17 year old from Toronto making the most out of my short time here on Eart
 
 # Reach Out
 
-I'm active on Twitter, LinkedIn, and email, send me a message!
+I'm active on X (formerly Twitter), LinkedIn, and email, send me a message!

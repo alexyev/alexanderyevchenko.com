@@ -1,6 +1,6 @@
 import { faGithub } from '@fortawesome/free-brands-svg-icons/faGithub';
 import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
-import { faTwitter } from '@fortawesome/free-brands-svg-icons/faTwitter';
+import { faSquareXTwitter } from '@fortawesome/free-brands-svg-icons';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 import { faMedium } from '@fortawesome/free-brands-svg-icons/faMedium';
 // See https://fontawesome.com/icons?d=gallery&s=brands,regular&m=free
@@ -19,8 +19,8 @@ const data = [
   },
   {
     link: 'https://twitter.com/alex_yevchenko',
-    label: 'Twitter',
-    icon: faTwitter,
+    label: 'X',
+    icon: faSquareXTwitter,
   },
   {
     link: 'https://medium.com/@alexanderyevchenko',
