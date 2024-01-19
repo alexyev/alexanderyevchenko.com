@@ -5,7 +5,7 @@ const data = [
     link: 'https://www.culturafarms.ca/landing.html',
     image: '/images/projects/cultura_homepage.png',
     date: 'June 2023 - Current',
-    desc: 'Co-Founded an app for local farmers in Ontario to track harvest, revenues and expenditures, and create a community of growers.',
+    desc: 'Won BETA Camp Hackathon, Placed Top 32 in Buildpsace of 17000+ Projects, Raised Grant from Emergent Ventures. Co-Founded an app for local farmers in Ontario to track harvest, revenues and expenditures, and create a community of growers.',
   },
   {
     title: 'brAInstorm',
@@ -13,7 +13,7 @@ const data = [
     link: 'https://devpost.com/software/brainstorm-2qkdtw',
     image: '/images/projects/brainstorm.png',
     date: 'September 2022',
-    desc: 'Over 48 hours, created an application that tracks brainwaves and converts them into art using generative AI',
+    desc: 'One of 10 Winners at HackTheNorth 2022, Canada\'s Largest Hackathon, of 1000+ builders. Over 48 hours, created an application that tracks brainwaves and converts them into art using generative AI',
   },
   {
     title: 'Student Consultant, IKEA',
