@@ -27,7 +27,7 @@ const work = [
     position: 'Consultant, PM',
     url: 'https://www.cae.com/',
     startDate: '2023-02-01',
-    endDate: '2014-03-01',
+    endDate: '2023-03-01',
     highlights: [
       'Tasked with identifying new market verticals for existing hardware and infrastructure to boost revenue',
       'Month-long intensive research and testing project included meeting users and creating business forecasts',
