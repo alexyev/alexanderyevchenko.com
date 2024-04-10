@@ -19,7 +19,7 @@ const work = [
     startDate: '2023-06-01',
     highlights: [
       'Co-Founded app for local farmers including expenditure, crop phenology, and weather',
-      'Won BETA Camp Hackathon and Buildspace Top 32, raised grant from Emergent Ventures',
+      'Won BETA Camp Hackathon and Buildspace Top 32, raised grant funding from Emergent Ventures, Ingenious Plus, and others',
     ],
   },
   {
